@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+#Hosting
+
+Find this live at https://fir-app-c0b5f.web.app/login
+
 ## Available Scripts
 
 In the project directory, you can run:
